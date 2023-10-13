@@ -25,3 +25,12 @@ is the culmination of about 10 years of experience developing robotic
 applications in the academic context. 
 
 Most applications we designed could be handled using the task scheduling framework in this repository.
+
+# Example Running
+'''
+ros2 launch task_manager_turtlesim launch_all.launch
+'''
+
+'''
+ros2 launch task_manager_turtlesim_sync launch_all.launch 
+'''
