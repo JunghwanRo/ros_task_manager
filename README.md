@@ -33,3 +33,6 @@ If you used --merge-install for your colcon build,
 ```
 ros2 launch task_manager_turtlesim launch_all_mi.launch
 ```
+If everything works, you should see a turtle drawing a square.
+
+![image](https://github.com/JunghwanRo/ros_task_manager/assets/112362005/1edb323d-eab0-433b-b9ea-90c5286b59f6)
