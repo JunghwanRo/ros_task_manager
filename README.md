@@ -35,7 +35,13 @@ If everything works, you should see a turtle drawing a square.
 ## Tutorial 
 
 The easiest way to start is the task_manager_turtlesim under src.
-Copy the task_manager_turtlesim to your workspace src folder, and change the name as you want. 
+Copy the task_manager_turtlesim to your workspace src folder, and change the folder name as you want. 
+
+### Erase irrelevant files in Humble. 
+You can erase the cfg folder since we no longer use it in ROS2 Humble.
+
+### Make 
+
 
 
 
